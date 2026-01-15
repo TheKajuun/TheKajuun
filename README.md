@@ -4,10 +4,10 @@
 Email: <a href="mailto:aaronmcintyre@hotmail.com">C. Aaron McIntyre</a>.<br>
 LinkedIn: <a href="https://www.linkedin.com/in/c-aaron-mcintyre/">https://www.linkedin.com/in/c-aaron-mcintyre/</a> <br>
 Locality: Montgomery County, MD, near Washington, DC <br>
-Currently pursuing a new AAS in Cybersecurity from Montgomery College, where I am gaining hands-on practical experience while polishing up my skill set.
+Currently pursuing a new AAS in Cybersecurity from Montgomery College, gaining hands-on practical experience while polishing up on my preferred skill set.
 
 <h3>Objective</h3>
-While I have a wide range of capabilities, my recent focus has been on cybersecurity, and I am eager to complete my transition into this field. My best fit professionally is likely going to be in a Security Operations Center (SOC) as a Security Analyst, where the complex tools involved complement my diverse background most effectively.
+While I have a extremely wide range of capabilities, my passion and focus is squarely on cybersecurity, being eager to complete my transition into this field. My best fit professionally is likely going to be in a Security Operations Center (SOC) as a Security Analyst, where the complex tools and detail oriented responsibilities complement my diverse background most effectively.
 
 <h3>Projects</h3>
 Title: <b><a href="https://github.com/TheKajuun/Security-Lab">Layered Network Defense using pfSense-Hosted IDS and Nessus Vulnerability Scanning</a></b><br>
