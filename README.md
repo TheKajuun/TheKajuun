@@ -22,15 +22,17 @@ My home security lab setup includes two Kali Linux VirtualBox VMs (Kali Blue and
 Title: <b><a href="https://github.com/TheKajuun/Python-HTTP-Server">Wireshark: Capturing Cleartext Login with Local HTTP Server</a></b><br>
 Goal: Capture and quickly find cleartext credentials using a minimalist python based web server to quickly show what Wireshark can and cannot capture
 
+This will be expanded, it simply takes a while to properly sanitize the many labs I have already completed for public visibility.
+
 <h3>Certifications</h3>
 <ul>
+<li><pre><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a42c4bc8-31ec-460c-b660-23b93b02910c">  BCR Cyber's SOC Operations Analyst I (SOCOA I)  <a target="_self" aria-label="Show credential for BCR Cyber's SOC Operations Analyst I (SOCOA I) Certification" aria-hidden="false" href="https://www.credential.net/1b15c200-7e0c-44d7-983b-3bf411320f2c"><span>Show credential</span></a>
+</pre></li>
 <li><pre><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/218cf50f-bfb7-49a2-b00a-9157c50f31fb">  CompTIA Security+  <a target="_self" aria-label="Show credential for CompTIA Security+" aria-hidden="false" href="https://www.credly.com/badges/7c16a8a4-faac-4241-9cfb-f349692f6007/linked_in_profile"><span>Show credential</span></a>
 </pre></li>
 <li><pre><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/218cf50f-bfb7-49a2-b00a-9157c50f31fb">  CompTIA A+  <a target="_self" aria-label="Show credential for CompTIA A+" aria-hidden="false" href="https://www.credly.com/badges/7c16a8a4-faac-4241-9cfb-f349692f6007/linked_in_profile"><span>Show credential</span></a>
 </pre></li>
 <li><pre><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a42c4bc8-31ec-460c-b660-23b93b02910c">  Google Cloud Fundamentals for AWS Professionals  <a target="_self" aria-label="Show credential for Google Cloud Fundamentals for AWS Professionals" aria-hidden="false" href="https://www.cloudskillsboost.google/public_profiles/8dd0d67a-3a7f-4736-b63e-16a33203274f/badges/13164013?utm_medium=social&utm_source=linkedin&utm_campaign=ql-social-share"><span>Show credential</span></a>
-</pre></li>
-<li><pre><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/a42c4bc8-31ec-460c-b660-23b93b02910c">  BCR Cyber's SOC Operations Analyst I (SOCOA I)  <a target="_self" aria-label="Show credential for BCR Cyber's SOC Operations Analyst I (SOCOA I) Certification" aria-hidden="false" href="https://www.credential.net/1b15c200-7e0c-44d7-983b-3bf411320f2c"><span>Show credential</span></a>
 </pre></li>
 <li><pre><img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/d1059023-4391-4e54-853a-f1cd51413f0d">  AWS Academy Graduate - AWS Academy Cloud Foundations  <a target="_self" aria-label="Show credential for AWS Academy Graduate - AWS Academy Cloud Foundations" aria-hidden="false" href="https://www.credly.com/badges/eba0cf3f-6894-4bec-b52f-757e8113b2ed/linked_in_profile"><span>Show credential</span></a>
 </pre></li>
